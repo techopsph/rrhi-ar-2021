@@ -1,0 +1,25 @@
+.elementor-kit-151 {--e-global-color-primary: #cc0030;--e-global-color-secondary: #ff8596;--e-global-color-text: #404347;--e-global-color-accent: #fffaf2;--e-global-color-b8ed181: #babcc0;--e-global-color-1c3ea73: #fffaf2;--e-global-typography-primary-font-family: "Roboto";--e-global-typography-primary-font-weight: 600;--e-global-typography-secondary-font-family: "Roboto Slab";--e-global-typography-secondary-font-weight: 400;--e-global-typography-text-font-family: "Roboto";--e-global-typography-text-font-weight: 400;--e-global-typography-accent-font-family: "Roboto";--e-global-typography-accent-font-weight: 500;--e-global-typography-87b1416-font-family: "Work Sans";--e-global-typography-87b1416-font-weight: 500;--e-global-typography-764001a-font-family: "Work Sans";--e-global-typography-764001a-font-weight: 600;font-family: "Work Sans",Sans-serif;}
+.elementor-kit-151 h1 {font-family: "Work Sans",Sans-serif;}
+.elementor-kit-151 h2 {font-family: "Work Sans",Sans-serif;}
+.elementor-kit-151 h3 {font-family: "Work Sans",Sans-serif;}
+.elementor-kit-151 h4 {font-family: "Work Sans",Sans-serif;}
+.elementor-kit-151 h6 {font-family: "Work Sans",Sans-serif;}
+.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1140px;}
+.e-container {--container-max-width: 1140px;}
+.elementor-widget:not(:last-child) {margin-bottom: 20px;}
+.elementor-element {--widgets-spacing: 20px;}
+ {}
+h1.entry-title {display: var(--page-title-display);}
+.elementor-kit-151 e-page-transition {background-color: #ffbc7d;}
+@media (max-width:1024px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1024px;}
+	.e-container {--container-max-width: 1024px;}}
+@media (max-width:767px) {.elementor-kit-151 {--e-global-typography-87b1416-font-size: 14px;--e-global-typography-764001a-font-size: 18px;}
+	.elementor-section.elementor-section-boxed > .elementor-container {max-width: 767px;}
+	.e-container {--container-max-width: 767px;}}
+.entry-header {display: none;}
+.footer-top-visible .footer-nav-widgets-wrapper {display: none;}
+.tricket-bar {min-width: 6px;min-height: 6px;position: absolute;z-index: 1;background-color: #babcc0;}
+.tricket-bar.bg-red {background-color: #ef233c;}
+.tricket-bar.bg-pink {background-color: #ff708a;}
+.tricket-bar.bg-yellow {background-color: #fff5bd;}
+.pb0 .elementor-widget-wrap.elementor-element-populated {padding-bottom: 0 !important;}
